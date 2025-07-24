@@ -30,6 +30,6 @@ Top startups have high users, big market, and low burn
 
 Visuals: bar chart of scores, heatmap of correlations
 
-🛠 Tech Used
+ Tech Used
 Python, Pandas, Seaborn, Matplotlib, Scikit-learn
 
